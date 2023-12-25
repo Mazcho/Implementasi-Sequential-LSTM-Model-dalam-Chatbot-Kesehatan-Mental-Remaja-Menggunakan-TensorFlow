@@ -17,19 +17,20 @@ Proyek ini merupakan implementasi Sequential LSTM Model dalam pembuatan Chatbot 
 - [Deployment](#deployment)
 
 ## Dataset
-  Deskripsi singkat tentang dataset yang digunakan dalam proyek ini. Jelaskan sumber data, format, dan detail karakteristiknya.
+  Pada pembuatan chatbot ini memerlukan dataset yang sangat banyak, dan perlu juga memfilter data data percakapan seputar kesehatan mental. Berikut beberapa penjelasan mengenai dataset yang digunakan : 
 
 
 ### Pengumpulan Data Set
 ![Alt text](image.png)
 Figure 1.0 Datasets from Kaggle : ELVIS
-To retrieve the data, I took it from a public data site, namely from Kaggle. This page presents data in .json format which contains general chat and knowledge regarding mental health. Theres the link forDataset : https://www.kaggle.com/datasets/elvis23/mental-health-conversational-data/data
+
+Untuk mengambil datanya saya ambil dari situs data publik yaitu dari Kaggle. Halaman ini menyajikan data dalam format .json yang berisi obrolan umum dan pengetahuan mengenai kesehatan mental. Ada tautan untuk Dataset : https://www.kaggle.com/datasets/elvis23/mental-health-conversational-data/data
 
 ### Dataset Features
 ![Alt text](image-1.png)
-
 Figure 2.0 Datasets Features
-In this data set there are 3 features. These include tags, patterns, and responses. Tags are markers of text data to mark the text as belonging to a category (greetings, greetings in the morning, afternoon, evening, asking for help, etc.). Pattern is a pattern given by the user for that category. When the user types good morning, he will enter the tag marker in the learning machine later. And the last one is responses, the response here is providing a response to input from the user regarding what the user provides from the computer. And the target of this research is tags, and the predictor variables are patterns and responses 
+
+Dalam kumpulan data ini terdapat 3 fitur. Ini termasuk tag, pola, dan tanggapan. Tag merupakan penanda data teks untuk menandai teks tersebut termasuk dalam suatu kategori (salam, salam pagi, siang, sore, minta tolong, dan sebagainya). Pola adalah pola yang diberikan oleh pengguna untuk kategori tersebut. Saat pengguna mengetik selamat pagi, ia akan memasukkan penanda tag di mesin pembelajaran nantinya. Dan yang terakhir adalah respon, respon disini adalah memberikan respon terhadap masukan dari pengguna mengenai apa yang pengguna berikan dari komputer. Dan target penelitiannya adalah tag, dan variabel prediktornya adalah pola dan respon.
 
 ## Tujuan
   Tujuan utama dari proyek ini adalah menciptakan chatbot kesehatan mental remaja yang dapat memberikan dukungan dan informasi yang relevan untuk pengguna. Jelaskan secara singkat mengapa proyek ini penting dan apa yang diharapkan dicapai.
