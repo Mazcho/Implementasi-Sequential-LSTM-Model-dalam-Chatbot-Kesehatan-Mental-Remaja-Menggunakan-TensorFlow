@@ -55,7 +55,27 @@ Kumpulan data ini berisi 237 data percakapan. Tidak ada nilai yang hilang dari d
   Selain peningkatan akurasi, nilai kerugian model juga secara konsisten menurun dari waktu ke waktu. Pengurangan nilai kerugian mencerminkan kemampuan model untuk mengoptimalkan parameter internalnya secara efektif dan mengurangi kesalahan dalam prediksi. Hal ini menanamkan keyakinan bahwa model telah mengalami konvergensi secara efektif dan dapat memberikan prediksi yang akurat.Meskipun hasil ini sangat menggembirakan, penting untuk memvalidasi performa model pada kumpulan data yang tidak terlihat untuk memastikan generalisasi yang baik. Selain itu, memahami tren akurasi dan kerugian selama tahap awal dan akhir pelatihan dapat memberikan wawasan berharga tentang seberapa cepat dan efisien model belajar dari data pelatihan.
 
 ## Deployment
-  Instruksi singkat atau tautan ke dokumentasi untuk melakukan deployment model chatbot. Jelaskan persyaratan sistem dan langkah-langkah yang diperlukan untuk mengintegrasikan chatbot ke dalam aplikasi atau platform yang diinginkan.
+  Untuk deployment saya menggunakakn Streamlit. Untuk deployment jangan lupa untuk menyimpan model yang sudah kita latih dalam format .keras. Setlah itu kita lakukan pemualatan model kedalam streamlit
+
+  ![Alt text](image-3.png)
+
+  Setelah itu kita membuat tampilan yang bertujuan untuk tampilan UI keapda user
+  ![Alt text](image-4.png)
+
+  hasilnya menajdiui sepreti ini
+
+  ![Alt text](image-5.png)
+
+  Lalu kita membuat sebuah file bernama requirement.txt. Gunanya unutk melakukan setup pada Streamlit app.
+  ![Alt text](image-6.png)
+
+  Setelah itu lanjut kedalam Streamlit Shared untuk setup App nya
+  ![Alt text](image-7.png)
+
+  Lalu deploy, dan tunggu proses hingga selesai
+  Hasilnya seperti ini :
+
+  ![Alt text](image-8.png)
 
 ## Baca Lengkap
 Kalian Bisa baca lengkap dokumentasinya pada medium saya : 
