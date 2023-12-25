@@ -1,5 +1,7 @@
 # Implementasi Sequential LSTM Model dalam Chatbot Kesehatan Mental Remaja Menggunakan TensorFlow
 
+![image](https://github.com/Mazcho/Implementasi-Sequential-LSTM-Model-dalam-Chatbot-Kesehatan-Mental-Remaja-Menggunakan-TensorFlow/assets/77985996/5a78004d-a7f6-4da2-8a12-1dae7ad5927d)
+
 ## Deskripsi Proyek
 Proyek ini merupakan implementasi Sequential LSTM Model dalam pembuatan Chatbot untuk mendukung kesehatan mental remaja. Proyek ini menggunakan TensorFlow sebagai kerangka kerja utama untuk pengembangan model.
 
