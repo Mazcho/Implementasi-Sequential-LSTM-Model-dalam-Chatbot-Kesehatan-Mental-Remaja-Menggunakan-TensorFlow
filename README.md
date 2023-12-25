@@ -57,15 +57,8 @@ Kumpulan data ini berisi 237 data percakapan. Tidak ada nilai yang hilang dari d
 ## Deployment
   Instruksi singkat atau tautan ke dokumentasi untuk melakukan deployment model chatbot. Jelaskan persyaratan sistem dan langkah-langkah yang diperlukan untuk mengintegrasikan chatbot ke dalam aplikasi atau platform yang diinginkan.
 
-## Kontribusi
-  Jika ada kontribusi yang diinginkan dari komunitas, jelaskan bagaimana orang dapat berkontribusi pada proyek ini.
-
-## Lisensi
-  Tentukan jenis lisensi yang digunakan untuk proyek ini. Jika memungkinkan, sertakan teks lengkap dari lisensi atau tautan ke file lisensi.
-
-## Kontak
-  Informasi kontak untuk pertanyaan atau kerjasama. Sertakan alamat email atau tautan media sosial yang relevan.
-
+## Baca Lengkap
+    Kalian Bisa baca lengkap dokumentasinya pada medium saya : 
+    https://medium.com/@putrantonicholaus/implementation-of-sequential-lstm-model-in-adolescent-mental-health-chatbot-using-tensorflow-cf5e5be6fa60
 ---
 
-**Catatan:** Gantilah bagian-bagian yang diperlukan dengan informasi spesifik tentang proyek Anda.
