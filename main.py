@@ -53,7 +53,8 @@ response_user = []  # List untuk menyimpan respons dari pengguna
 response_bot = []  # List untuk menyimpan respons dari bot
 
 
-st.title("Demo Chatbot")  # Menampilkan judul aplikasi chatbot
+st.title("Mental Health ChatBot")  # Menampilkan judul aplikasi chatbot
+st.write("Say Hi to MentalHealth ChatBot")
 
 
 # menampilkan hasil histori dari chat sebelumnya
@@ -64,7 +65,7 @@ for message in st.session_state.messages:
         st.markdown(message["content"])  # Menampilkan histori chat sebelumnya
 
 # Dapatkan input pengguna
-prompt = st.chat_input("Ketik untuk memulai percakapan")  # Menampilkan input chat dan mendapatkan prompt dari pengguna
+prompt = st.chat_input("Type your chat here")  # Menampilkan input chat dan mendapatkan prompt dari pengguna
 
 # Proses input pengguna dan tampilkan respons
 if prompt:
