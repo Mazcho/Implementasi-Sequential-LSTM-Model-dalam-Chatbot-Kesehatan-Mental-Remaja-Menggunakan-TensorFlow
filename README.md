@@ -58,8 +58,8 @@ Kumpulan data ini berisi 237 data percakapan. Tidak ada nilai yang hilang dari d
   Instruksi singkat atau tautan ke dokumentasi untuk melakukan deployment model chatbot. Jelaskan persyaratan sistem dan langkah-langkah yang diperlukan untuk mengintegrasikan chatbot ke dalam aplikasi atau platform yang diinginkan.
 
 ## Baca Lengkap
-    Kalian Bisa baca lengkap dokumentasinya pada medium saya : 
-    
-    https://medium.com/@putrantonicholaus/implementation-of-sequential-lstm-model-in-adolescent-mental-health-chatbot-using-tensorflow-cf5e5be6fa60
+Kalian Bisa baca lengkap dokumentasinya pada medium saya : 
+
+https://medium.com/@putrantonicholaus/implementation-of-sequential-lstm-model-in-adolescent-mental-health-chatbot-using-tensorflow-cf5e5be6fa60
 ---
 
