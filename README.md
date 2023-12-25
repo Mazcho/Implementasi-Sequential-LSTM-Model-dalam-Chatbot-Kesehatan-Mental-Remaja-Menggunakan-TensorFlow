@@ -19,6 +19,18 @@ Proyek ini merupakan implementasi Sequential LSTM Model dalam pembuatan Chatbot 
 ## Dataset
   Deskripsi singkat tentang dataset yang digunakan dalam proyek ini. Jelaskan sumber data, format, dan detail karakteristiknya.
 
+
+### Pengumpulan Data Set
+![Alt text](image.png)
+Figure 1.0 Datasets from Kaggle : ELVIS
+To retrieve the data, I took it from a public data site, namely from Kaggle. This page presents data in .json format which contains general chat and knowledge regarding mental health. Theres the link forDataset : https://www.kaggle.com/datasets/elvis23/mental-health-conversational-data/data
+
+### Dataset Features
+![Alt text](image-1.png)
+
+Figure 2.0 Datasets Features
+In this data set there are 3 features. These include tags, patterns, and responses. Tags are markers of text data to mark the text as belonging to a category (greetings, greetings in the morning, afternoon, evening, asking for help, etc.). Pattern is a pattern given by the user for that category. When the user types good morning, he will enter the tag marker in the learning machine later. And the last one is responses, the response here is providing a response to input from the user regarding what the user provides from the computer. And the target of this research is tags, and the predictor variables are patterns and responses 
+
 ## Tujuan
   Tujuan utama dari proyek ini adalah menciptakan chatbot kesehatan mental remaja yang dapat memberikan dukungan dan informasi yang relevan untuk pengguna. Jelaskan secara singkat mengapa proyek ini penting dan apa yang diharapkan dicapai.
 
