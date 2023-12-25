@@ -59,6 +59,7 @@ Kumpulan data ini berisi 237 data percakapan. Tidak ada nilai yang hilang dari d
 
 ## Baca Lengkap
     Kalian Bisa baca lengkap dokumentasinya pada medium saya : 
+    
     https://medium.com/@putrantonicholaus/implementation-of-sequential-lstm-model-in-adolescent-mental-health-chatbot-using-tensorflow-cf5e5be6fa60
 ---
 
